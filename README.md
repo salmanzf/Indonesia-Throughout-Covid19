@@ -9,3 +9,8 @@ In summary, the code will tell you about:
 - TotalCases/Population (%)
 - TotalDeaths/Cases (%)
 - TotalVaccinated/Population (%)
+
+This project also show the performance through visualization by using Tableau with the following dashboard:
+![This is an image](https://github.com/salmanzf/Indonesia-Throughout-Covid19/blob/main/Dashboard%20Covid.png)
+
+
