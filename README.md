@@ -11,6 +11,6 @@ In summary, the code will tell you about:
 - TotalVaccinated/Population (%)
 
 This project also show the performance through visualization by using Tableau with the following dashboard:
-![This is an image](https://github.com/salmanzf/Indonesia-Throughout-Covid19/blob/main/Dashboard%20Covid.png)
+![This is an image](https://github.com/salmanzf/Indonesia-Throughout-Covid19/blob/main/Indonesia%20Through%20COVID%2019.png)
 
-We can conclude that Indonesia is performing "fine" regarding the preventation of COVID19 with 19.71% Vaccination Rate and 1.55% Cases Rate. However Indonesia is "slightly worse" regarding the treatment, because despite the low cases rate it has slightly more death rate (3.3%) than other country with so much higher cases rate like USA.
+Let's look at the projection. In terms of Vaccination Rate, Indonesia is ranked 4th among SEA nations although there is a huge margin 3rd and 4th position (almost 2 times). However, despite the low vaccination rate Indonesia has lower Cases Rate compared to SEA nation with higher vaccination rate (Malaysia and Singapore). And not only in Indonesia, SEA nation with lower vaccination rate also has lower cases rate (Laos and Myanmar). This can be implied by one of the two reasons, whether the countries with lower Vaccination Rate has stricter regulation regarding to COVID or there are many COVID patients undetected. In opposite of Cases Rate, Indonesia's COVID Death Rate (3.37%) is 3 timese higher than Malaysia which has ~5 times COVID Cases Rate. This implied that Indonesia still needs to improve its COVID treatment procedures.
