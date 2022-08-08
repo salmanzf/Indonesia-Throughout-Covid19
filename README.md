@@ -6,9 +6,9 @@ I split the data into two files so the data is not filled with too many columns.
 The purpose of this project is to explore Indonesia performance in general for handling COVID-19 compared to the rest of the world.
 
 In summary, the [code](https://github.com/salmanzf/Indonesia-Throughout-Covid19/blob/main/COVID%20in%20Indonesia.sql) will tell you about:
-- TotalCases/Population (%)
-- TotalDeaths/Cases (%)
-- TotalVaccinated/Population (%)
+- TotalCases/Population (%) = Case Rates
+- TotalDeaths/Cases (%) = Death Rates
+- TotalVaccinated/Population (%) = Vaccine Rates
 
 This project also show the performance through visualization by using Tableau with the following dashboard:
 ![This is an image](https://github.com/salmanzf/Indonesia-Throughout-Covid19/blob/main/Indonesia%20Through%20COVID%2019.png)
