@@ -3,12 +3,15 @@
 This project is based on real live data (up to 30 January 2022) from https://ourworldindata.org/covid-deaths.
 I split the data into two files so the data is not filled with too many columns.
 
-The purpose of this project is to explore Indonesia performance in general for handling COVID-19 compared to the rest of the world.
+The purpose of this project is to explore Indonesia performance in general for handling COVID-19 compared to the neighbor countries in South East Asia (SEA).
 
 In summary, the [code](https://github.com/salmanzf/Indonesia-Throughout-Covid19/blob/main/Visualization%20COVID%20in%20Indonesia.sql) will tell you about:
 - TotalCases/Population (%) = Case Rates
 - TotalDeaths/Cases (%) = Death Rates
 - TotalVaccinated/Population (%) = Vaccine Rates
+
+But before we look at the performance from neighboring countries, let's see COVID-19 activity in Indonesia with this graph:
+![COVID19 Effects](https://github.com/salmanzf/Indonesia-Throughout-Covid19/blob/main/Indonesia%20Covid%20Effects.png)
 
 This project also show the performance through visualization by using Tableau with the following dashboard:
 ![This is an image](https://github.com/salmanzf/Indonesia-Throughout-Covid19/blob/main/Indonesia%20Through%20COVID%2019.png)
