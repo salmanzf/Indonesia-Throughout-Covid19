@@ -8,12 +8,14 @@ FROM CovidDeaths;
 
 --For Visualization
 --TABLE
-SELECT SUM(a.population) population, SUM(a.total_cases) total_cases, (SUM(a.total_cases)/SUM(a.population))*100 total_cases_percentage
+SELECT SUM(a.population) population, SUM(a.total_cases) total_cases, SUM(CONVERT(bigint, a.total_deaths)) total_deaths
 FROM CovidDeaths a
 INNER JOIN (
 	SELECT location, MAX(date) MaxDate
 	FROM CovidDeaths
 	WHERE continent IS NOT NULL
+	AND location IN ('Myanmar', 'Cambodia', 'East Timor', 'Indonesia', 'Laos', 'Malaysia', 'Philippines',
+					'Singapore', 'Thailand', 'Vietnam')
 	GROUP BY location
 	) b
 ON a.location=b.location AND a.date = b.MaxDate
