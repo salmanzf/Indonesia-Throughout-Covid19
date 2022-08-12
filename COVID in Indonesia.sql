@@ -116,8 +116,8 @@ ORDER BY AVG(vaccinated/population)*100 DESC;
 SELECT *
 FROM CovidEffects
 
-SELECT location, date, 100*total_cases/population Cases_Rates, 100*CONVERT(bigint, people_vaccinated)/population Vaccination_Rates,
-		100*CAST(total_deaths AS int)/total_cases Death_Rates
+SELECT location, date, 100*new_cases/population Cases_Rates, 100*CONVERT(bigint, people_vaccinated)/population Vaccination_Rates,
+		100*CAST(new_deaths AS int)/total_cases Death_Rates
 FROM CovidEffects
 WHERE continent IS NOT NULL
 

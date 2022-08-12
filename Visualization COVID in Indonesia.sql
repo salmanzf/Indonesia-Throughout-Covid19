@@ -24,12 +24,12 @@ ON a.location=b.location AND a.date = b.MaxDate
 
 --TIME SERIES
 --Time Series Cases per Population Percentage
-SELECT location, date, population, total_cases, (total_cases/population)*100 Cases_Percentage
-FROM CovidDeaths
+SELECT location, date, population, total_cases, new_cases, (new_cases/population)*100 Cases_Percentage
+FROM CovidEffects
 ORDER BY location, date;
 --Time Series Death per Cases Percentage
-SELECT location, date, population, total_cases, CONVERT(int, total_deaths) total_deaths, (CAST(total_deaths AS int)/total_cases)*100 Death_Percentage
-FROM CovidDeaths
+SELECT location, date, population, total_cases, CONVERT(int, new_deaths) new_deaths, (CAST(new_deaths AS int)/total_cases)*100 Death_Percentage
+FROM CovidEffects
 ORDER BY location, date;
 
 --BAR CHART
