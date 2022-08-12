@@ -13,7 +13,7 @@ In summary, the [code](https://github.com/salmanzf/Indonesia-Throughout-Covid19/
 But before we look at the performance from neighboring countries, let's see COVID-19 activity in Indonesia with this graph:
 ![COVID19 Effects](https://github.com/salmanzf/Indonesia-Throughout-Covid19/blob/main/Indonesia%20Covid%20Effects.png)
 
-From March 2020 until January 2022, in general Indonesia has decreasing death rates and increasing case rates according to the trend lines. Although it looks like there is a steady increase or decrease in the rates, there is a sharp increase in June 2021 for cases rates in July 2021 for death rates. Vaccination in Indonesia start in early 2021 and has grown to well above 60% for atleast people with 1 dose of vaccine.
+From March 2020 until January 2022, in general Indonesia has decreasing death rates and fluctuating case rates according to the graph. There is a certain period of time which caused cases rate to spike and will be explained in the next graph. Vaccination in Indonesia start in early 2021 and has grown to well above 60% for atleast people with 1 dose of vaccine. If we look at the graph, vaccination has higher correlation to death rates rather than cases rates. This imply vaccination is lowering the lethal effect COVID-19.
 
 Now we know the COVID-19 activity in Indonesia, let's compare it with the neighboring countries.
 ![This is an image](https://github.com/salmanzf/Indonesia-Throughout-Covid19/blob/main/Indonesia%20Through%20COVID%2019.png)
