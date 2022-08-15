@@ -26,6 +26,6 @@ Let's look at the projection. In terms of Vaccination Rate, at the end of Januar
 
 ### Cases & Death Rates in Indonesia
 - Cases Rates
-Similar to some of the countries in SEA, Indonesia has a high increase in COVID-19 cases in the middle 2021. Overall, by the end of January 2022 Indonesia has the lowest cases rates among SEA countries at **0.003%** which is below the average at among its countries at 0.13%
+  Similar to some of the countries in SEA, Indonesia has a high increase in COVID-19 cases in the middle 2021. Overall, by the end of January 2022 Indonesia has the lowest cases rates among SEA countries at **0.003%** which is below the average at among its countries at 0.13%
 ### Anomaly on The COVID-19 Cases Spike
 There is a similarity in some of countries at the Cases Percentage graph, where the COVID-19 cases rise drastically in a short time (where we call anomaly at the previous graph). Indonesia, Malaysia, and Myanmar have similarities where the rises of COVID-19 happened at June 2021 and Singapore at later month. By further research, the speculation this happened is because of the new COVID-19 variant called Delta especially in Indonesia based on this [news](https://regional.kompas.com/read/2021/08/15/124633678/dinkes-sebut-covid-19-varian-delta-sudah-ada-di-kalbar-sejak-juni-2021) arrived at June 2021. This is supported by Death Percentage graph where there is also an incerase at July 2021 (Indonesia & Myanmar), a month after the Delta variant arrive at Indonesia.
