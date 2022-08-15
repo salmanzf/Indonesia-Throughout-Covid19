@@ -24,10 +24,11 @@ Now we know the COVID-19 activity in Indonesia, let's compare it with the neighb
 ### People Vaccinated in Indonesia
 Let's look at the projection. In terms of Vaccination Rate, at the end of January 2022 Indonesia is ranked 6th among SEA nations at 66.65% people vaccinated. This number also below the average of world countries which is 69.88% with a difference of ~3%, which is not a good indicator.
 
-### Cases & Death Rates in Indonesia
-- Cases Rates  
-  Similar to some of the countries in SEA, Indonesia has a high increase in COVID-19 cases in the middle 2021. Overall, by the end of January 2022 Indonesia has the   lowest cases rates among SEA countries at **0.03%** which is below the average at among its countries at 0.13%
-- Death Rates  
-  
 ### Anomaly on The COVID-19 Cases Spike
 There is a similarity in some of countries at the Cases Percentage graph, where the COVID-19 cases rise drastically in a short time (where we call anomaly at the previous graph). Indonesia, Malaysia, and Myanmar have similarities where the rises of COVID-19 happened at June 2021 and Singapore at later month. By further research, the speculation this happened is because of the new COVID-19 variant called Delta especially in Indonesia based on this [news](https://regional.kompas.com/read/2021/08/15/124633678/dinkes-sebut-covid-19-varian-delta-sudah-ada-di-kalbar-sejak-juni-2021) arrived at June 2021. This is supported by Death Percentage graph where there is also an incerase at July 2021 (Indonesia & Myanmar), a month after the Delta variant arrive at Indonesia.
+
+### Cases & Death Rates in Indonesia
+- Cases Rates  
+  Similar to some of the countries in SEA, Indonesia has a high increase in COVID-19 cases in the middle 2021. Overall, by the end of January 2022 Indonesia has one of the lowest cases rates among SEA countries at **0.03%** which is below the average at among its countries at 0.13%
+- Death Rates  
+  By the end of January 2022 all of the SEA countries has really low Death Rates per month with average of 0.061%, especially Indonesia with a percentage of 0.005% which is far below the average. Despite the great results we can see when the Delta variant arrived (June 2021), Indonesia and Myanmar have a huge spike in July 2022. Malaysia and Singapore however, despite getting hit by a huge spike in Cases Rate still manage to maintain the Death Rates low. We can conclude that despite the great performance of Indonesia by curing the COVID-19 patient, it's not prepared enough to expect the unexpected appearance of COVID-19 variant.
